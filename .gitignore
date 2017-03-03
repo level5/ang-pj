@@ -38,3 +38,6 @@ jspm_packages
 
 # eslint cache file
 .eslintcache
+
+# build files
+dist
