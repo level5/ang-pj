@@ -1,0 +1,3 @@
+$(() => {
+  $('body').append('hello jquery!');
+});
